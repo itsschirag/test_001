@@ -1,0 +1,37 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.position{
+    justify-content: center;
+    text-align: center;
+
+}
+
+.imgsx{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+
+.maindiv{
+    margin-top: 10%;
+    
+}
+.btn{
+    background: transparent linear-gradient(180deg, #00FF2580 0%, #000000 100%, #36A54680 100%) 0% 0% no-repeat padding-box;
+    mix-blend-mode: normal;
+    border: 2px solid #8CFF0026;
+    opacity: 1;
+}
+.ft{
+    align-items: center;
+    color: green;
+}
+
+.ftdiv{
+    margin-top: 10px;
+}

@@ -1,0 +1,58 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.position{
+    justify-content: center;
+    text-align: center;
+
+}
+.pos{
+    justify-content:left;
+    text-align: left;
+
+}
+.gr{
+    background-color: gray;
+}
+
+.itm{
+    align-items:flex-start;
+}
+.grdiv {
+    background-color: #FBD603;
+   
+}
+img{
+    object-fit: scale-down;
+    }
+
+.imgsx{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+
+.grdiv {
+    background: #5E5E5E82 0% 0% no-repeat padding-box;
+    box-shadow: inset 0px 4px 0px #00000040;
+    mix-blend-mode: normal;
+    opacity: 10;
+    
+   
+}
+
+
+div {
+    margin-bottom: 20px;
+    display: flex;
+    align-items: flex-start;
+ }
+
+ .pernum{
+    text-decoration-color: green;
+
+ }

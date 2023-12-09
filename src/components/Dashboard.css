@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.position{
+    justify-content: center;
+    text-align: center;
+
+}
+
+
+.imgsx{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 150px;
+}
+
+
+
+
+.grdiv {
+    margin-bottom: 20px;
+    background-color:dimgray;
+   
+ }
+
+ .pernum{
+    text-decoration-color: green;
+
+ }
